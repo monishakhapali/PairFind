@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\pairfind\pairfind\bin\Debug\netcoreapp3.1\pairfind.exe
+C:\Users\monisha.khapali\source\repos\pairfind\pairfind\bin\Debug\netcoreapp3.1\pairfind.deps.json
+C:\Users\monisha.khapali\source\repos\pairfind\pairfind\bin\Debug\netcoreapp3.1\pairfind.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\pairfind\pairfind\bin\Debug\netcoreapp3.1\pairfind.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\pairfind\pairfind\bin\Debug\netcoreapp3.1\pairfind.dll
+C:\Users\monisha.khapali\source\repos\pairfind\pairfind\bin\Debug\netcoreapp3.1\pairfind.pdb
+C:\Users\monisha.khapali\source\repos\pairfind\pairfind\obj\Debug\netcoreapp3.1\pairfind.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\pairfind\pairfind\obj\Debug\netcoreapp3.1\pairfind.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\pairfind\pairfind\obj\Debug\netcoreapp3.1\pairfind.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\pairfind\pairfind\obj\Debug\netcoreapp3.1\pairfind.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\pairfind\pairfind\obj\Debug\netcoreapp3.1\pairfind.dll
+C:\Users\monisha.khapali\source\repos\pairfind\pairfind\obj\Debug\netcoreapp3.1\pairfind.pdb
+C:\Users\monisha.khapali\source\repos\pairfind\pairfind\obj\Debug\netcoreapp3.1\pairfind.genruntimeconfig.cache
